@@ -1,0 +1,15 @@
+C:\Users\Gustavo\source\repos\CpmPedidos\CpmPedido.Interface\bin\Debug\net5.0\CpmPedido.Interface.deps.json
+C:\Users\Gustavo\source\repos\CpmPedidos\CpmPedido.Interface\bin\Debug\net5.0\CpmPedido.Interface.dll
+C:\Users\Gustavo\source\repos\CpmPedidos\CpmPedido.Interface\bin\Debug\net5.0\ref\CpmPedido.Interface.dll
+C:\Users\Gustavo\source\repos\CpmPedidos\CpmPedido.Interface\bin\Debug\net5.0\CpmPedido.Interface.pdb
+C:\Users\Gustavo\source\repos\CpmPedidos\CpmPedido.Interface\bin\Debug\net5.0\CpmPedidos.Domain.dll
+C:\Users\Gustavo\source\repos\CpmPedidos\CpmPedido.Interface\bin\Debug\net5.0\CpmPedidos.Domain.pdb
+C:\Users\Gustavo\source\repos\CpmPedidos\CpmPedido.Interface\obj\Debug\net5.0\CpmPedido.Interface.csprojAssemblyReference.cache
+C:\Users\Gustavo\source\repos\CpmPedidos\CpmPedido.Interface\obj\Debug\net5.0\CpmPedido.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\source\repos\CpmPedidos\CpmPedido.Interface\obj\Debug\net5.0\CpmPedido.Interface.AssemblyInfoInputs.cache
+C:\Users\Gustavo\source\repos\CpmPedidos\CpmPedido.Interface\obj\Debug\net5.0\CpmPedido.Interface.AssemblyInfo.cs
+C:\Users\Gustavo\source\repos\CpmPedidos\CpmPedido.Interface\obj\Debug\net5.0\CpmPedido.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\CpmPedidos\CpmPedido.Interface\obj\Debug\net5.0\CpmPedido.Interface.csproj.CopyComplete
+C:\Users\Gustavo\source\repos\CpmPedidos\CpmPedido.Interface\obj\Debug\net5.0\CpmPedido.Interface.dll
+C:\Users\Gustavo\source\repos\CpmPedidos\CpmPedido.Interface\obj\Debug\net5.0\ref\CpmPedido.Interface.dll
+C:\Users\Gustavo\source\repos\CpmPedidos\CpmPedido.Interface\obj\Debug\net5.0\CpmPedido.Interface.pdb
